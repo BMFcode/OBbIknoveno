@@ -1,0 +1,10 @@
+E:\Программы\Программирование\FOrmS\bin\Debug\FOrmS.exe.config
+E:\Программы\Программирование\FOrmS\bin\Debug\FOrmS.exe
+E:\Программы\Программирование\FOrmS\bin\Debug\FOrmS.pdb
+E:\Программы\Программирование\FOrmS\obj\Debug\FOrmS.csprojAssemblyReference.cache
+E:\Программы\Программирование\FOrmS\obj\Debug\FOrmS.Form1.resources
+E:\Программы\Программирование\FOrmS\obj\Debug\FOrmS.Properties.Resources.resources
+E:\Программы\Программирование\FOrmS\obj\Debug\FOrmS.csproj.GenerateResource.cache
+E:\Программы\Программирование\FOrmS\obj\Debug\FOrmS.csproj.CoreCompileInputs.cache
+E:\Программы\Программирование\FOrmS\obj\Debug\FOrmS.exe
+E:\Программы\Программирование\FOrmS\obj\Debug\FOrmS.pdb
